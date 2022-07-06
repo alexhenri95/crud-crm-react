@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Alex Henriquez",
+      "empresa": "TechCode",
+      "email": "techcode@gmail.com",
+      "telefono": "0982682102",
+      "notas": "S/O",
+      "id": 1
+    },
+    {
+      "nombre": "Jordan Loor",
+      "empresa": "TechCode",
+      "email": "techcode@gmail.com",
+      "telefono": "0939352442",
+      "notas": "S/O",
+      "id": 2
+    },
+    {
+      "nombre": "George Martinez",
+      "empresa": "Constructor S.A.",
+      "email": "george@gmail.com",
+      "telefono": "0923812312",
+      "notas": "S/O",
+      "id": 3
+    },
+    {
+      "nombre": "Guillermo Garcia",
+      "empresa": "UG",
+      "email": "guillermo@gmail.com",
+      "telefono": "0911112428",
+      "notas": "No se presento al examen.",
+      "id": 5
+    }
+  ]
+}
